@@ -1,0 +1,5 @@
+Student: Manrique
+Student ID: TUPM-26-1137
+Seed digit: 7
+ID sum: 20
+Verification value: 167

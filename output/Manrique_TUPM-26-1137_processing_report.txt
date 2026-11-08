@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+-------------------------------------
+Last Name: Manrique
+Student ID: TUPM-26-1137
+Seed Digit: 7
+ID Sum: 20
+Verification Value: 167
+Dataset Sample Size: 70
+Valid Records: 70
+Average Global Active Power: 4.022
+JSON File: Manrique_TUPM-26-1137_record.json
+Backup File: Manrique_TUPM-26-1137_record.csv
