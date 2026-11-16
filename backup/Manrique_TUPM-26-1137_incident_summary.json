@@ -1,0 +1,70 @@
+{
+    "last_name": "Manrique",
+    "student_id": "TUPM-26-1137",
+    "seed_digit": 7,
+    "target_year": 2022,
+    "total_records": 3000,
+    "records_in_target_year": 318,
+    "attack_type_counts": {
+        "Malware": 64,
+        "Phishing": 57,
+        "Ransomware": 56,
+        "DDoS": 54,
+        "SQL Injection": 46,
+        "Man-in-the-Middle": 41
+    },
+    "total_financial_loss_usd_million": 15870.86,
+    "average_financial_loss_usd_million": 49.9084,
+    "top_five_costliest_incidents": [
+        {
+            "country": "Japan",
+            "year": "2022",
+            "attack_type": "Phishing",
+            "target_industry": "Banking",
+            "financial_loss_in_million_usd": 98.47,
+            "affected_users": "972469",
+            "attack_source": "Nation-state",
+            "incident_resolution_time_hours": "21"
+        },
+        {
+            "country": "USA",
+            "year": "2022",
+            "attack_type": "SQL Injection",
+            "target_industry": "Government",
+            "financial_loss_in_million_usd": 98.46,
+            "affected_users": "429452",
+            "attack_source": "Hacker Group",
+            "incident_resolution_time_hours": "6"
+        },
+        {
+            "country": "Brazil",
+            "year": "2022",
+            "attack_type": "Phishing",
+            "target_industry": "Banking",
+            "financial_loss_in_million_usd": 98.06,
+            "affected_users": "884502",
+            "attack_source": "Insider",
+            "incident_resolution_time_hours": "55"
+        },
+        {
+            "country": "UK",
+            "year": "2022",
+            "attack_type": "Phishing",
+            "target_industry": "Government",
+            "financial_loss_in_million_usd": 97.56,
+            "affected_users": "722445",
+            "attack_source": "Nation-state",
+            "incident_resolution_time_hours": "10"
+        },
+        {
+            "country": "Japan",
+            "year": "2022",
+            "attack_type": "Malware",
+            "target_industry": "Education",
+            "financial_loss_in_million_usd": 97.32,
+            "affected_users": "742866",
+            "attack_source": "Nation-state",
+            "incident_resolution_time_hours": "61"
+        }
+    ]
+}

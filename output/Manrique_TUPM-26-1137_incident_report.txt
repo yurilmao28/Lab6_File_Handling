@@ -1,0 +1,29 @@
+Cybersecurity Incident Report
+============================
+Target year: 2022
+Total records in dataset: 3000
+Incidents in target year: 318
+
+Incident counts by attack type:
+- Malware: 64
+- Phishing: 57
+- Ransomware: 56
+- DDoS: 54
+- SQL Injection: 46
+- Man-in-the-Middle: 41
+
+Financial loss summary:
+Total financial loss: 15870.86 million USD
+Average financial loss: 49.91 million USD
+
+Top five costliest incidents:
+1. Japan | Phishing | 98.47 million USD | Banking | users: 972469
+2. USA | SQL Injection | 98.46 million USD | Government | users: 429452
+3. Brazil | Phishing | 98.06 million USD | Banking | users: 884502
+4. UK | Phishing | 97.56 million USD | Government | users: 722445
+5. Japan | Malware | 97.32 million USD | Education | users: 742866
+
+Output file information:
+Filtered CSV file: C:\Users\Yuri\BSECE 1-C, 1st Sem\Comprog\Lab6_File_Handling_Manrique\output\Manrique_TUPM-26-1137_filtered_incidents.csv
+JSON summary file: C:\Users\Yuri\BSECE 1-C, 1st Sem\Comprog\Lab6_File_Handling_Manrique\output\Manrique_TUPM-26-1137_incident_summary.json
+Verified backup: C:\Users\Yuri\BSECE 1-C, 1st Sem\Comprog\Lab6_File_Handling_Manrique\backup\Manrique_TUPM-26-1137_incident_summary.json

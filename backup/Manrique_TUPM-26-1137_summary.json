@@ -1,0 +1,17 @@
+{
+    "last_name": "Manrique",
+    "student_id": "TUPM-26-1137",
+    "seed_digit": 7,
+    "id_sum": 20,
+    "records_processed": 1020,
+    "target_status_class": "5xx",
+    "target_records": 0,
+    "status_code_counts": {
+        "200": 843,
+        "206": 8,
+        "302": 143,
+        "304": 21,
+        "404": 5
+    },
+    "top_five_urls": []
+}

@@ -1,0 +1,18 @@
+{
+    "last_name": "Manrique",
+    "student_id": "TUPM-26-1137",
+    "seed_digit": 7,
+    "target_operating_system": "iOS",
+    "target_behavior_class": 3,
+    "total_records": 700,
+    "records_matching_operating_system": 146,
+    "records_in_target_behavior_class": 143,
+    "selected_record_count": 32,
+    "average_battery_drain_mAh_per_day": 1492.03125,
+    "average_data_usage_MB_per_day": 828.09375,
+    "count_verification": true,
+    "exported_csv_file": "C:\\Users\\Yuri\\BSECE 1-C, 1st Sem\\Comprog\\Lab6_File_Handling_Manrique\\output\\Manrique_TUPM-26-1137_mobile_usage.csv",
+    "json_summary_file": "C:\\Users\\Yuri\\BSECE 1-C, 1st Sem\\Comprog\\Lab6_File_Handling_Manrique\\output\\Manrique_TUPM-26-1137_mobile_usage_summary.json",
+    "backup_file": "C:\\Users\\Yuri\\BSECE 1-C, 1st Sem\\Comprog\\Lab6_File_Handling_Manrique\\backup\\Manrique_TUPM-26-1137_mobile_usage.csv",
+    "backup_file_size_bytes": 1082
+}
